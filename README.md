@@ -1,5 +1,5 @@
 
-# Titanic Survival Prediction 🚢
+# Titanic Survival Prediction 
 
 This is my first Machine Learning model training project. In this project, I worked with the Titanic dataset and learned the basic process of data preprocessing, model training, prediction, and accuracy comparison.
 
